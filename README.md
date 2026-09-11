@@ -13,8 +13,11 @@ I enjoy working on data sets relating to sports, as well as large real-world dat
 <br>
 🔍 Interested in real-world data sets, including sports such as football with analysis giving tactical advantages
 <br>
+<br>
 📊 Comfortable with data cleaning, exploratory analysis, and visual storytelling
 <br>
+<br>
 🌱 Currently learning SQL (joins, aggregations, window functions)
+<br>
 <br>
 🎯 Psychology graduate with a passion for data analysis, aiming to build up skills and explore opportunities relating to analysing data sets of all different aspects
