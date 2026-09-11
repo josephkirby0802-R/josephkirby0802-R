@@ -1,4 +1,5 @@
-# Job-Referral
+<h1 align="center">josephkirby0802-R's Profile 👋
+ </h1> <p align="center"><i></i>My name is Joe and I am a data analyst. The goal of this repository is to display a compilation of projects I have made ranging from academic to personal projects. I work primarily in R, however am currently learning SQL.</p> <p align="center"> <a href="[LinkedIn link]"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a> <a href="[portfolio link]"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=googlechrome&logoColor=white" /></a> <a href="mailto:[your email]"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a> </p>
  My name is Joe and I am a data analyst. The goal of this repository is to display a compilation of projects I have made ranging from academic to personal projects. I work primarily in R, however am currently learning SQL.
 I enjoy working on data sets relating to sports, as well as large real-world data sets that can have useful applications from analysis. I aim to present data in a clean format through R-Markdown that is easily read by anyone.
 
