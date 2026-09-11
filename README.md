@@ -9,3 +9,9 @@
 
 I enjoy working on data sets relating to sports, as well as large real-world data sets that can have useful applications from analysis. I aim to present data in a clean format through R-Markdown that is easily read by anyone.
 
+# About me
+
+🔍 Interested in real-world data sets, including sports such as football with analysis giving tactical advantages
+📊 Comfortable with data cleaning, exploratory analysis, and visual storytelling
+🌱 Currently learning SQL (joins, aggregations, window functions)
+🎯 Psychology graduate with a passion for data analysis, aiming to build up skills and explore opportunities relating to analysing data sets of all different aspects
